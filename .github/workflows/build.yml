@@ -1,0 +1,28 @@
+# Continuous build and deploy to GCP
+
+name: Build
+
+on:
+  workflow_dispatch:
+#   push:
+#     branches:
+#     - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v4
+
+    - name: Install Hugo
+      run: | 
+        wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_linux-amd64.tar.gz
+        tar -xzf hugo.tar.gz
+        sudo mv hugo /usr/local/bin/
+
+    - name: Build site
+      run: |
+        cd website
+        hugo
