@@ -16,7 +16,6 @@ jobs:
     - name: Checkout source
       uses: actions/checkout@v4
 
-
 # We would prefer to use "latest", but the Hugo repository does not always redirect to the proper URL
 # wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_linux-amd64.tar.gz
     - name: Install Hugo
@@ -49,4 +48,4 @@ jobs:
         export_default_credentials: true
   
     - name: Sync files to Google Cloud Storage
-      run: gsutil -m rsync -r public gs://tech.sdcote.com
+      run: gsutil -m rsync -r public gs://tech.sdcote.com/
