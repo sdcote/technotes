@@ -48,4 +48,4 @@ jobs:
         export_default_credentials: true
   
     - name: Sync files to Google Cloud Storage
-      run: gsutil -m rsync -r public gs://tech.sdcote.com/
+      run: gsutil -m rsync -r ./public/ gs://tech.sdcote.com/
