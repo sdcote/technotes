@@ -18,7 +18,7 @@ jobs:
 
     - name: Install Hugo
       run: | 
-        wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_linux-amd64.tar.gz
+        wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_0.140.0_linux-amd64.tar.gz 
         tar -xzf hugo.tar.gz
         sudo mv hugo /usr/local/bin/
 
