@@ -16,13 +16,27 @@ jobs:
     - name: Checkout source
       uses: actions/checkout@v4
 
+
+# We would prefer to use "latest", but the Hugo repository does not always redirect to the proper URL
+# wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_linux-amd64.tar.gz
     - name: Install Hugo
       run: | 
         wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_0.140.0_linux-amd64.tar.gz 
         tar -xzf hugo.tar.gz
         sudo mv hugo /usr/local/bin/
 
+    - name: Install Node.js
+      run: |
+        sudo apt update
+        sudo apt install nodejs
+
+    - name: Install PostCSS
+      run: |
+        cd website
+        npm i -D postcss postcss-cli autoprefixer
+
     - name: Build site
       run: |
         cd website
         hugo
+      
