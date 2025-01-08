@@ -1,11 +1,13 @@
 ---
 title: Privacy Policy
 ---
-{{% blocks/section %}}# Privacy Policy{{% /blocks/section %}}
+{{% blocks/section %}}
+# Privacy Policy
+No data is collected or retained by this website.{{% /blocks/section %}}
 
 <br />
 
-#### No data is collected or retained by this website.
+#### 
 - This site does not use cookies.
 - All access is anonymous.
 - Requests are not logged.

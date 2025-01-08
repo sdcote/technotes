@@ -1,7 +1,7 @@
 ---
 title: Cloud
 description: Cloud Architecture Section
-weight: 2
+weight: 4
 ---
 
 This section contains notes relating to the design and structure of a cloud computing environment, including the components, relationships, and principles that govern how cloud services are deployed, managed, and accessed. Cloud architecture encompasses various aspects such as:
