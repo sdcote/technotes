@@ -4,14 +4,15 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 512 512"
-   style="enable-background:new 0 0 512 512;"
+   viewBox="0 0 216.12872 271.30481"
    xml:space="preserve"
-   sodipodi:docname="TeckNotesLogo-circle.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    inkscape:export-filename="TeckNotesLogo-circle.png"
    inkscape:export-xdpi="199.227"
    inkscape:export-ydpi="199.227"
+   width="216.12872"
+   height="271.30481"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,26 +27,15 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="0.59040654"
-   inkscape:cx="93.156149"
-   inkscape:cy="256.60285"
+   inkscape:cx="-54.199942"
+   inkscape:cy="136.34673"
    inkscape:window-width="1920"
-   inkscape:window-height="1057"
-   inkscape:window-x="-8"
+   inkscape:window-height="1009"
+   inkscape:window-x="1912"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
-	<circle
-   style="enable-background:new 0 0 512 512;display:inline;fill:#273b7a"
-   cx="256"
-   cy="256"
-   r="256"
-   id="circle1"
-   inkscape:label="circle" /><path
-   style="display:inline;fill:#121149"
-   d="M 509.75445,289.8331 361.95385,142.155 C 250.21291,269.24543 224.57247,288.81592 150.33097,389.5142 l 121.3745,122.00358 C 281.62147,512.68478 245.768,512 255.997,512 357.26236,512 475.58441,450.4493 509.75445,289.8331 Z"
-   id="path1"
-   inkscape:label="shadow"
-   sodipodi:nodetypes="ccccsc" />
+	
 	
 	
 	
@@ -53,17 +43,18 @@
 	<g
    id="g15"
    style="display:none"
-   inkscape:label="document"><polygon
+   inkscape:label="document"
+   transform="translate(-147.93565,-120.3476)"><polygon
      style="fill:#fee187"
-     points="142.22,113.778 142.22,426.667 311.453,426.667 369.778,368.342 369.778,113.778 "
+     points="311.453,426.667 369.778,368.342 369.778,113.778 142.22,113.778 142.22,426.667 "
      id="polygon1"
      inkscape:label="page" /><polygon
      style="fill:#ffc61b"
-     points="255.426,426.667 311.453,426.667 369.778,368.342 369.778,113.778 255.426,113.778 "
+     points="369.778,368.342 369.778,113.778 255.426,113.778 255.426,426.667 311.453,426.667 "
      id="polygon2"
      inkscape:label="pageright" /><polygon
      style="fill:#eaa22f"
-     points="369.778,368.342 311.453,368.342 311.453,426.667 "
+     points="311.453,426.667 369.778,368.342 311.453,368.342 "
      id="polygon3"
      inkscape:label="pagecorner" /><path
      style="fill:#ff5419"
@@ -125,7 +116,7 @@
 <g
    id="g16"
    inkscape:label="notes"
-   transform="matrix(0.339131,0,0,0.339131,169.3009,169.18246)"
+   transform="matrix(0.339131,0,0,0.339131,21.365254,48.834864)"
    style="display:inline"><g
      id="g2"
      style="display:inline"

@@ -13,9 +13,10 @@ resources:
     params:
       byline: "Steve Cote / CC-BY-CA"
 ---
-## Problem Domains
+
 The term best practice is misused more often than not. It is a "hand-wavy" phrase that is meant to cover everything from documented practices to "trust me I know what I'm talking about." Its misuse has led some to dismiss the term as so much double talk and rightly so. Continue misusing a term long enough and it loses its meaning and value.
 
+## Problem Domains
 A problem domain is a subject area or context in which a problem is identified, analyzed, and solved. This includes everything from "my coffee maker won't brew a cup of coffee", to landing humans on Mars. Are you trying to deliver quality software to your customers? Then your problem domain is software delivery. Do you have too many defects in your code? Then, software quality is your problem domain. Delivering a new product or service to a market is a problem domain.
 
 Problem domains are containers for other problem domains. Decomposing problems into subdomains is an important step to effectively addressing problems and collaborating on their resolution. Troubleshooting a circuit may not contain many problem domains, but landing a spacecraft certainly does. One person can effectively troubleshoot a circuit, but it will take one person a lifetime to address every problem domain in landing a spacecraft.

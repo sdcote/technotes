@@ -13,7 +13,7 @@ resources:
       byline: "Steve Cote / CC-BY-CA"
 ---
 
-I could not by just looking at it. Maybe you can:
+One of the lead developers and I were conducting interviews for new developers at a technology start-up and he came across a humorous example of a Java program when researching technical questions to ask potential candidates. He asked if I could tell him what the output of this simple Java. I could not by just looking at it. Maybe you can:
 
 ```java
 class X {
