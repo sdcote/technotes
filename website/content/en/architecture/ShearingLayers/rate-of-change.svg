@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="660mm"
+   height="465mm"
+   viewBox="0 0 660 465"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="rate-of-change.svg"
+   inkscape:export-filename="rate-of-change.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.17972959"
+     inkscape:cx="425.63943"
+     inkscape:cy="943.08345"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="22.36939"
+       originy="-25.000004"
+       spacingx="5.0000001"
+       spacingy="4.9999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.369391,-25.000003)">
+    <g
+       opacity="1"
+       id="g2"
+       style="display:block"
+       transform="matrix(0.78372978,0,0,0.80348811,123.56961,10.305653)">
+      <path
+         class="primary"
+         fill="#4bb3fd"
+         fill-opacity="1"
+         d="m -75.981598,116.02406 c -1.642998,1.951 -0.256203,4.932 2.2948,4.932 h 41.052002 L -32.5,586.83952 c 0,0.44542 1.343,0.80576 3,0.80576 h 59 c 1.657,0 3,-0.36034 3,-0.80576 L 32.365204,120.95606 h 41.051201 c 2.551002,0 3.937797,-2.981 2.2948,-4.932 L 2.1602027,28.681059 c -1.19899996,-1.422999 -3.391,-1.422999 -4.5899999,0 z"
+         id="path2"
+         sodipodi:nodetypes="csccssccscccc" />
+    </g>
+    <g
+       style="display:block;mix-blend-mode:multiply"
+       opacity="0.5"
+       id="g3"
+       transform="matrix(0.78372978,0,0,0.80348811,123.56961,10.305653)">
+      <path
+         class="primary"
+         fill="#4bb3fd"
+         fill-opacity="1"
+         d="m -0.003,587.69001 h -29.5 c -1.657,0 -2.999998,-0.36115 -2.999998,-0.80657 l -0.1348,-465.92738 h -41.050999 c -2.551002,0 -3.938004,-2.982 -2.294998,-4.933 L -2.4317973,28.681059 c 0.599,-0.712 1.44600007,-1.067999 2.29400005,-1.067999 z"
+         id="path3"
+         sodipodi:nodetypes="csccscccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:800;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:#ff0000;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="318.46164"
+       y="83.910622"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;stroke:none;stroke-width:0.9"
+         x="318.46164"
+         y="83.910622" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#000000;stroke:none;stroke-width:0.9"
+         x="318.46164"
+         y="83.910622"
+         id="tspan2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="274.0343"
+       y="482.31461"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.9"
+         x="274.82806"
+         y="482.31461">Platform</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="311.85486"
+       y="420.68326"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.9"
+         x="312.64862"
+         y="420.68326">Infrastructure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="306.80664"
+       y="358.92496"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.9"
+         x="307.6004"
+         y="358.92496">Data Schema</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="410.15924"
+       y="294.95682"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.9"
+         x="410.953"
+         y="294.95682">Frameworks &amp; Components</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="424.0784"
+       y="235.73853"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.9"
+         x="424.87213"
+         y="235.73853">Abstract Classes &amp; Interfaces</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="265.2395"
+       y="174.03101"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.9"
+         x="270.33218"
+         y="174.03101">Classes </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="303.02206"
+       y="112.39966"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.9"
+         x="303.81583"
+         y="112.39966">Source Code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="244.74809"
+       y="50.273037"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.9"
+         x="245.54185"
+         y="50.273037">Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="32.667858"
+       y="50.273037"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.9"
+         x="33.461609"
+         y="50.273037">Faster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="28.807022"
+       y="482.23837"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.9"
+         x="29.600769"
+         y="482.23837">Slower</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;line-height:0;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+       x="-288.35599"
+       y="71.30761"
+       id="text13"
+       transform="rotate(-90)"
+       inkscape:export-filename="text13.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#999999;stroke-width:0.9"
+         x="-287.56219"
+         y="71.30761">Rate of Change</tspan></text>
+  </g>
+</svg>
