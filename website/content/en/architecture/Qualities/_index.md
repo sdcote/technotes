@@ -5,10 +5,23 @@ weight: 2
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 
-
 Qualities are not the same as requirements although qualities can be required. i.e., a requirement is to have a quality of high availability.
 
+Qualities describe how a system is to behave, not what it is expected to do.
+
+They are a formal definition of the non-functional requirements of the system.
+
+System qualities must be prioritized otherwise it may be difficult to perform a trafe-off analysis
+
+The definition of system qualities is important for several reasons:
+- **Quality Assurance**: System qualities help ensure that the system meets specific quality standards, such as performance targets, security measures, and usability criteria.
+- **User Experience**: System qualities can greatly impact the overall user experience of a system. For example, qualities related to response time and reliability can significantly affect how users perceive the system.
+- **System Performance**: System qualities help define the performance characteristics of the system, such as scalability, availability, and response time. These qualties are crucial for ensuring that the system can handle the expected workload and perform efficiently.
+- **Compliance and Security**: System qualities related to security, compliance with regulations, and data privacy are essential for protecting sensitive information and ensuring legal compliance.
+
 Qualities are not always measurable and are often subjective. Architectural decisions are therefore made with the intent to strengthen or weaken a quality rather than to achieve a discrete, measurable value.
+
+It is best to have quantifiable qualities.
 
 Criteria for Architecture Selection
 Quality is Dependent on Architectural Decisions

@@ -1,7 +1,7 @@
 ---
 title: Architecture Artifacts
 description: Don't waste time generating marginally useful documnetation. Focus on documentation that is the most valuable and contributes to the success of your projects.
-weight: 3
+weight: 1
 
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}

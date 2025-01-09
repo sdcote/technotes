@@ -14,3 +14,15 @@ Ask for this list early before any decisions are made.
 If there is no quality list, require a it be started when the first decision must be made.
 
 Make surte the lisk is widely distributed and known by all participants. Business owners and technical delivery team members alike.
+
+Each quality should be completely explained and agreed upon by all stateholders.
+
+## Quality Scenarios
+
+Qualities that are quantifiable are preferred, but not necessary. When refering to the performance of the system, for example, a statement should be made as to the expected performance in a particular scenario. If 100 users make a request at one time, the expected average response time should not exceed 2 seconds.
+
+Quantifiable scenarios allow for the creation of automated tests to ensure expected qualities are being met.
+
+Automated testing of quality scenarios help ensure the system does not evolve into an non-compliant state.
+
+## Example

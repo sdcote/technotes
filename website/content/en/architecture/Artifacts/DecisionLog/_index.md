@@ -24,3 +24,25 @@ Describe the motivation for the decision.
 Provide architectural guidance for emergent design.
 
 Don’t be afraid to re-visit decisions!
+
+Groundhog Day anti-pattern - We keep visiting the same decisions over and over again. To avoid the Groundhog Day anti-pattern, make sure the decision and all its decision criteria are addressed and the complete justification is documented.
+
+Conditions and constraints
+
+Publish them in a central location (wiki, shared drive, SharePoint, etc)
+
+Communicate the architecture decisions - hold white board sessions, present at steering committee meetings, etc.
+
+Invaluable for technical communication.
+
+Often asked, why do we do it this way?
+
+Invaluable when evaluating the architecture (at least yearly)
+
+Records the decision making process, not "just cuz I said so"
+
+Record the prioritized list of quality attributes used to make decisions
+
+Records all the assumptions at the time of the decision.
+
+When assumptions are proven invalid, the architecture must be re-evaluated
