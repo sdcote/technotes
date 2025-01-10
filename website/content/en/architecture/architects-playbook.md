@@ -2,8 +2,8 @@
 title: The Architects Playbook
 description: >-
      Gathering a common understanding of the subject system quickly is critical 
-     tefficientnt execution of any project. This is my standard playbook for 
-     engaging all new clients and projects.
+     to the efficient execution of any project. This is my standard playbook for 
+     engaging all new clients and projects as an architect.
 weight: 200
 
 ---
@@ -19,7 +19,7 @@ Below are the steps I follow in each architecture engagement with my clients.
 
 Determine what the client uses to generate documentation. This includes what office suite to be used.
 
-Determine the preferred graphic format. SVG tools like Inkscape are my preferred tool, but the client may be limited in what formats are readable. Some use Microsoft Visio, others might use LucidChart. In any case, be sure to establish a standard format and begin working in that technology.
+Determine the preferred graphic format. SVG tools like Inkscape are my preferred tool, but the client may be limited in what formats are readable. Some use Microsoft Visio, others might use LucidChart. In any case, be sure to establish a standard format and begin working on that technology.
 
 Determine what document repository strategy the client uses. This might be a Wiki framework like Confluence or a repository like Microsoft SharePoint. In cases where there is no repository, seek to create one. It is best to place all documentation in one location so information is easy to locate. At least, with one location, all searches can start in one place and link to other locations as necessary.
 
@@ -50,7 +50,7 @@ Quality scenarios can be created at any time during the project.
 
 ## 3. System Context Model
 
-Start gathering information for a system context model. Meet with the project manager and begin collecting a list of contacts to all of the connected systems.
+Start gathering information for a system context model. Meet with the project manager and begin collecting a list of contacts for all of the connected systems.
 
 Create a system context document in the architecture folder in the document repository.
 
@@ -100,29 +100,29 @@ Each integration entry in the catalog should contain the following information:
 
 The architecture decision log is created when there is a decision to be made for the new system.
 
-The log can be started when an existing decision has been previously made for the system. In this case, the details of the decision should be captured. This will result in a discussion where the decision makers will be asked for details about the decision.
+The log can be started when an existing decision has been previously made for the system. In this case, the details of the decision should be captured. This will result in a discussion where the decision-makers will be asked for details about the decision.
 
 When logging previously made decisions, it is often discovered that a careful trade-off analysis was not performed and decision-makers may get defensive. The goal is to log what data there is about the decision and record it in the log. Previously made decisions do not have to be complete.
 
 ## 6. Component Model
 
-As architecturally significant components are identifier, the should be placed in a component model. This mode whould contain at least a name and a description of the function of the component.
+As architecturally significant components are identifiers, they should be placed in a component model. This mode would contain at least a name and a description of the function of the component.
 
-While this can be a simple component diagram, diagrams can be difficult to maintain. Don not worry about diagrmming, just log the name and details of components identified to be important to the system.
+While this can be a simple component diagram, diagrams can be difficult to maintain. Do not worry about diagramming, just log the name and details of components identified to be important to the system.
 
-Components need not be classes or physicla objects in the system.
+Components need not be classes or physical objects in the system.
 
 ## 7. Sequence Models
 
 If there is confusion about the behavior of the system, start generating sequence diagrams using the component model as the source of entities.
 
-Any new components discovered during sequence model descussions should be placed in the component model.
+Any new components discovered during sequence model discussions should be placed in the component model.
 
-As discussions continue regarding designs, ask the designers to walk thorough use case secenarios and document how components interact.
+As discussions continue regarding designs, ask the designers to walk through use case scenarios and document how components interact.
 
 ## 8. Deployment Model
 
-At some point in the desing of the system, physical deployments will be discussed. These discussions should be used to generate a physical model of where components are deployed in the system.
+At some point in the design of the system, physical deployments will be discussed. These discussions should be used to generate a physical model of where components are deployed in the system.
 
 ## 9. Failure Mode Effect Analysis
 
@@ -130,6 +130,5 @@ Once the deployment model is started, failure mode effect analysis (FMEA) discus
 
 Start identifying and rating every failure mode the team can identify.
 
-Immediately rais risk issues for the highest failure modes and request they be addressed.
-
+Immediately raise risk issues for the highest failure modes and request they be addressed.
 
