@@ -3,7 +3,4 @@ title: Overview
 linkTitle: Agility
 menu: {main: {weight: 10}}
 ---
-
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+This section contains various notes on agile methodologies. Many are awaiting formatting into a finished article.

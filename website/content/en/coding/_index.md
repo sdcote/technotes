@@ -4,7 +4,5 @@ linkTitle: Coding
 menu: {main: {weight: 40}}
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+This section contains various notes on coding. Many are awaiting formatting into a finished article.
 

@@ -1,16 +1,18 @@
 ---
-date: 2019-02-08
-title: Quantitative Reliability Assessment
-linkTitle: Reliability Assessment
+title: Failure Mode Effect Analysis
 description: >
-  Improving the reliability of complex systems through a simple process of identifying failure modes.
-author: Steve Cote ([@sdcote.com](https://bsky.app/profile/sdcote.com))
+    As the design of the system evolves, regular and iterative analysis of 
+    failure modes in their effects on the system is performed to predict and 
+    address risk early in the life of the system.
+weight: 8
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
     params:
       byline: "Steve Cote / CC-BY-CA"
 ---
+
+This is how we improve the reliability of complex systems through a simple process of identifying failure modes.
 
 We all want reliable systems, even if they are not on our prioritized list of system qualities. We want our systems to exhibit:
 
