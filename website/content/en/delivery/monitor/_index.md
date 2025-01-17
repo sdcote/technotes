@@ -6,7 +6,20 @@ description: >-
     generated when metrics breach thresholds.
 weight: 6
 ---
+## Monitoring
 
+## Observability
+
+## Metrics
+- Good metrics to consider
+    - Apdex
+        - Application Performance Index
+        - Open std for app performance
+- Acting on Metrics
+- Service Levels
+    - Indicators
+    - Objectives
+    - Agreements
 
 ## Backlog
 
@@ -35,3 +48,10 @@ Message Channels - Slack, Teams, tec.
 Text Message - Everyone has a smartphone and SMS has replaced the pager.
 
 eMail - THis is the low-tech way to notify someone. 
+
+
+## Tools
+
+### Prometheus
+
+## Graphana
