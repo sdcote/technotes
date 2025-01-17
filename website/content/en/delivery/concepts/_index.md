@@ -1,5 +1,7 @@
 ---
 title: Concepts
-description: This creates a basic taxonomy for monern delivery concepts.
+description: This defines basic nomenclature and vocabulary for modern delivery concepts.
 weight: 1
 ---
+
+

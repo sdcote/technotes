@@ -5,4 +5,10 @@ description: >-
 weight: 6
 ---
 
-.
+## Source Code Scanning
+
+## Dependencey Scanning
+
+## Monitoring Strategy
+
+Monitor security events like invalid log-ins, invlalid handshakes, serticiacte expirations, certificate errors, DoS attacks, etc.
