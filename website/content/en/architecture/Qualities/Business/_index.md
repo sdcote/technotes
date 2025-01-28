@@ -1,6 +1,6 @@
 ---
 title: Business Qualities
-description: There are qualities in addition to those that apply directly to a system, but are equally important in shaping a system’s architecture. They concern issues such as cost and schedule, marketability, and organizational factors such as workforce availability.
+description: There are qualities in addition to those that apply directly to a system, and are equally important in shaping a system’s architecture. They concern issues such as cost and schedule, marketability, and organizational factors such as workforce availability.
 weight: 3
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}

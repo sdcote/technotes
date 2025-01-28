@@ -5,6 +5,8 @@ description: >-
 weight: 5
 ---
 
+{{< alert color="warning" title="Work In Progress" >}}This page contains basic notes related to backlog management. This page has not been proofed and formatted into a finished article.{{< /alert >}}
+
 ## Backlog Types
 - Behavorial
     - Product Backlog

@@ -1,6 +1,6 @@
 ---
 title: Runtime Qualities
-description: There  are qualities that can be observed and measured as the system executes.
+description: There are qualities that can be observed and measured as the system executes.
 weight: 1
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
