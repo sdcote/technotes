@@ -7,6 +7,27 @@ weight: 1
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 
+## Discovery
+
+Delivery transformation engagements involve a discovery phase to generate goals. This phase requires meeting with not only the delivery teams experiencing issues but also the business stakeholders.
+
+### Meeting with Business Stakeholders
+
+The primary goal of meeting with business stakeholders is clearly understanding their strategic objectives, priorities, and expectations for software development and service management. This meeting helps align technical initiatives with business goals, ensuring that development and service teams deliver value that meets market and customer needs. Stakeholders provide insights into desired outcomes, key performance indicators (KPIs), and regulatory or compliance considerations that may impact system development or operations.
+
+Another critical objective is identifying pain points and bottlenecks in current service delivery from a business perspective. Stakeholders may highlight issues such as delays in feature releases, system downtime affecting customer experience, or inefficiencies in support processes. These discussions help shape improvement initiatives that optimize team performance while aligning with broader business goals.
+
+**Deliverable:** A **Business Goals and Priorities Report** summarizing key objectives, desired outcomes, and identified pain points that need to be addressed by development and service teams.
+
+### Meeting with Delivery Teams
+
+Once we have a picture of the high-level expectations and perceived issues to be addressed, we begin meeting with the delivery teams.
+
+Meeting with the development and service teams is essential to understanding the technical landscape, operational challenges, and constraints they face. The goal is to gain insight into their current workflows, tools, and methodologies, such as Agile, DevOps, or ITSM frameworks. Engaging with these teams makes it possible to identify inefficiencies, process bottlenecks, and areas where automation or tooling improvements can enhance productivity.
+
+Another objective is to bridge the gap between business expectations and technical feasibility. Delivery teams provide a ground-level perspective on what is achievable within given timeframes, budgets, and resource constraints. They can also highlight issues related to technical debt, system reliability, and support workload, which may not be immediately apparent to business stakeholders.
+
+**Deliverable:** A **Delivery Environment Assessment** detailing current development and service workflows, tools, challenges, and opportunities for improvement to enhance efficiency and service quality.
 
 ## The Reasons for Change
 
@@ -81,7 +102,7 @@ If you are trying to address many defects in your backlog, delivery is not your 
 
 ## Too Many Cards?
 
-If you have more cards in your backlog than you can ever hope to release on time, the problem may not be with delivery but with how the backlog is managed.
+If you have more cards in your backlog than you can hope to release on time, the problem may not be with delivery but with how the backlog is managed.
 
 If cards are taking too long to complete, consider:
 - The cards are epics and need to be decomposed.
@@ -106,7 +127,7 @@ What metrics are essential for delivery teams?
 
 A good metric quality is how easy it is to get from the source. Can you call an API in your backlog management tool and get your metrics automatically? Can you set up a scheduled job and collect change management metrics from your change management system?
 
-It is not a good idea to generate metrics by hand, as that is time-consuming and error-prone. Metrics could be gathered one way, one time, and another. Data might look "off" and encourage the "fudging" of numbers. Who collects the metrics when team members go on vacation?
+Generating metrics by hand is not a good idea, as that is time-consuming and error-prone. Metrics could be gathered one way, one time, and another. Data might look "off" and encourage the "fudging" of numbers. Who collects the metrics when team members go on vacation?
 
 Successful teams typically gather metrics by making calls to the API endpoints of their systems of record:
 - Backlog Management (e.g., Jira, ServiceNow)
@@ -143,7 +164,7 @@ Delivery teams should track metrics over several sprints before making changes t
 
 It is a common mistake to compare metrics across teams. Every team is unique, and what is the baseline for one team will not be the expected baseline for another.
 
-Managers often make this mistake, thinking the metric applies uniformly to all teams. Experience shows us that every team has different deliverables, execution environments, processes, restrictions, and dependencies. Every backlog item is different, so trying to "count cards" across teams is meaningless. A medium card for one team is a large card for another. The same is valid for sizing. The team velocity of one team has no relation to the velocity of another team. I know one team that sizes cards far higher than others. A medium card is 25 points for that team.
+Managers often make this mistake, thinking the metric applies uniformly to all teams. Experience shows teams have different deliverables, execution environments, processes, restrictions, and dependencies. Every backlog item is different, so trying to "count cards" across teams is meaningless. A medium card for one team is a large card for another. The same is valid for sizing. The team velocity of one team has no relation to the velocity of another team. I know one team that sizes cards far higher than others. A medium card is 25 points for that team.
 
 ## Act On Metrics
 

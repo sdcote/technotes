@@ -10,7 +10,7 @@ Nearly all teams I have been assigend to help with their delivery issues use the
 
 ## Work And Value
 
-THe primary purpose of the team is to deliver value. They were not established to write code, or manage a database. THey were brought together to deliver value to the customer.
+The primary purpose of the team is to deliver value. They were not established to write code, or manage a database. THey were brought together to deliver value to the customer.
 
 For software development teams, delivering value means witing code and deploying a compiled artifact into a production execution environment. THese teams deal with adding features and addressing defects. Their activities are coordinated in a product backlog and teams deliver backlog items.
 
@@ -19,6 +19,12 @@ For some teams, delivering value means performing work on behalf of the customer
 ### Backlog Items and Service Tickets
 
 Other teams, many adopting both development and operations (i.e., "DevOps") deal with both. They work both tickets from service queues and items (features and defects) from product backlogs. As more product teams take on both development and operations, their product backlog start to contain both service tickets and backlog items, Since service tickets and backlog items track different things and require different management practices, using one tool and process leads to innefiencies.
+
+### Delivery Cycle Duration
+
+Code and compile teams deliver sprintly
+
+Service Teams deliver when the ticket is complete.
 
 ### Fit for Purpose
 Teams are given a tool and told to manage their backlog with it. While this is fundamentally the tool dictating the process, it is a fact of life for most teams to use the corporate standard tool sets.
@@ -52,7 +58,6 @@ Service request tickets are more difficult to predict than product backlog items
 Information Technology Service Management (ITSM) is a set of practices and processes that help organizations design, deliver, manage, and improve IT services to meet the needs of customers. ITSM focuses on aligning IT services with the needs of the business, improving efficiency, and delivering value to customers. 
 
 ITSM encompasses a broader set of practices and processes beyond backlog management, including incident management, change management, problem management, service level management, and more. While backlog management is specific to managing tasks within a project, ITSM is a comprehensive approach to managing IT services across the organization to ensure alignment with business goals and delivering value to customers.
-
 
 Service request tickets are unpredictable and more difficult to plan and manage. Service management tools take into account these differences and service teams choose tools to most efficently manage service requests.
 
