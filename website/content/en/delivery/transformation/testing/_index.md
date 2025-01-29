@@ -5,8 +5,9 @@ description: >-
     contain any undesirable qualities.
 weight: 7
 ---
+{{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 
-There is automated testing and manual testing. THe more automated testing, the facter the feedback.
+There is automated testing and manual testing. The more automated testing, the faster the feedback.
 
 ## Unit Testing
 

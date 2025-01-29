@@ -4,6 +4,7 @@ description: >-
     Artifact management is critical to efficient delivery.
 weight: 9
 ---
+{{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 
 
 ## Versioning Strategy

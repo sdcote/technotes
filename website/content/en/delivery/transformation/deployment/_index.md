@@ -4,6 +4,7 @@ description: >-
     It is critical for teams to clearly define, understand, and refactor how their products are deployed to best provide value to their customers
 weight: 10
 ---
+{{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 
 ## Deployment Orchestration
 

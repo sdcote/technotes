@@ -4,7 +4,7 @@ description: Transforming your delivery streams is decomposed into 12 steps. Unl
 weight: 2
 ---
 
-One of the things that keeps me busy is helping organizations transform their delivery streams. While organizations may have adopted agile development methods, they have not transformed their delivery model from traditional waterfall methodologies. Now that development teams are generating value faster than ever before, the rest of the delivery stream is struggling to keep up. Traditional organizations are still using old delivery practices. While their development teams may be agile, their release management and operations processes are not.
+One of the things that keeps me busy is helping organizations transform their delivery streams. While organizations may have adopted agile development methods, they have not transformed their delivery model from traditional waterfall methodologies. Now that development teams are generating value faster than ever, the rest of the delivery stream struggles to keep up. Traditional organizations are still using old delivery practices. While their development teams may be agile, their release management and operations processes are not.
 
 ## Transformation Process
 
@@ -23,4 +23,4 @@ After performing scores of delivery transformation projects and "green fielding"
 1. **Refactoring** — Identify issues with the existing delivery stream and address them immediately.
 1. **Repeat** — Establish regular intervals to revisit each step of the transformation process to ensure delivery practices stay current with customer expectations and needs.
 
-While it would be easy to assume this is only for software, that would be a mistake. Any product delivered to the customer can follow these steps to improve the delivery of value. This process has worked for many teams delivering data set, machine learning models, analysis and visualization elements, data science, and many other non-software products.
+While it would be easy to assume this is only for software, that would be a mistake. Any product delivered to the customer can follow these steps to improve value delivery. This process has worked for many teams providing data sets, machine learning models, analysis and visualization elements, data science, and other non-software products.

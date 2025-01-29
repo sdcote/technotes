@@ -4,6 +4,7 @@ description: >-
     Many, if not most, teams using backlogs are doing so inefficiently.
 weight: 2
 ---
+{{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 
 Nearly all teams I have been assigend to help with their delivery issues use their backlogs incorrectly. THey are trying to mix two different types of activites into one tracking strategy and this has always proved difficult. Succesful teams have two tyeprse of activities they perform. One is deliverying value through theiur product and the other is the work required in the deliverance of that value to the customer. Teams need to rack Work and Value.
 
