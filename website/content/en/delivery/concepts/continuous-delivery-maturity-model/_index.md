@@ -77,5 +77,5 @@ Focuses on compliance, security, and risk management. Maturity in this area invo
 ## References
 <ol>
   <li id="1">Andreas Rehn and Patrik Boström,The Continuous Delivery Maturity Model,Feb 2013, online: <a href="https://www.infoq.com/articles/Continuous-Delivery-Maturity-Model/">InfoQ</a></li>
-    <li id="2">Netherlands National Institute for the Software Industry (NISI), Continuous Delivery 3.0 Maturity Model (CD3M), online: <a href="https://nisi.nl/continuousdelivery/articles/maturity-model">InfoQ</a></li>
+  <li id="2">Netherlands National Institute for the Software Industry (NISI), Continuous Delivery 3.0 Maturity Model (CD3M), online: <a href="https://nisi.nl/continuousdelivery/articles/maturity-model">NISI</a></li>
 </ol>
