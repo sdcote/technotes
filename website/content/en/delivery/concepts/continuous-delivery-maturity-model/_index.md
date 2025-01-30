@@ -7,8 +7,6 @@ description: >-
 weight: 1
 ---
 
-{{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
-
 Years of coaching teams have revealed a set of good practices for delivery teams. These practices have proven to improve quality and reduce time to market.
 
 Successful teams have adopted these practices where appropriate, and mature teams have adopted more. Modern delivery practices use a Continuous Delivery Maturity Model to assess a team's baseline and, with the team's participation, begin adopting good practices from the model.

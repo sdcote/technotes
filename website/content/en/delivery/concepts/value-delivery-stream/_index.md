@@ -4,6 +4,7 @@ description: >-
     Not all delivery teams are the same. How value is delivered to the customer 
     must be understood before delivery practices can be optimized.
 weight: 1
+draft: true
 ---
 
 ## Understand your team type

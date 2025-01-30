@@ -3,6 +3,7 @@ title: Backlog Strategy
 description: >-
     Many, if not most, teams using backlogs are doing so inefficiently.
 weight: 2
+draft: true
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 

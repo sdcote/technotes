@@ -3,6 +3,7 @@ title: Feedback Loops
 description: >-
     It is an unwritten truth that agile survives only through feeback. Without it, agile fails.
 weight: 1
+draft: true
 ---
 
 ## Fast Feedback

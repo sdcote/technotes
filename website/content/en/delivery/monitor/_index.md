@@ -5,6 +5,7 @@ description: >-
     unit is measured. Metrics are evaluated in realtime and events are 
     generated when metrics breach thresholds.
 weight: 6
+draft: true
 ---
 ## Monitoring
 

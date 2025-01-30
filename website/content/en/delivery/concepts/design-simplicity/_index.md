@@ -4,6 +4,7 @@ description: >-
     Simplicity is one of the founding agile principles and is woefully absent 
     from much of todays designs.
 weight: 1
+draft: true
 ---
 
 > Simplicity — the art of maximising the amount of work not done — is essential  

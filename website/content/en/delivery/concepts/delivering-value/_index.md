@@ -3,6 +3,7 @@ title: Delivering Value
 description: >-
     At the end of the day, it is all about how much value the team delivered to its customers.
 weight: 1
+draft: true
 ---
 
 > You are not here to write code. You are here to ship product

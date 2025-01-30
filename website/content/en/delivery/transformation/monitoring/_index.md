@@ -5,6 +5,7 @@ description: >-
     is critical to ensuring your delivery streams remain efficient and continue 
     to meet goals and objectives.
 weight: 3
+draft: true
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 

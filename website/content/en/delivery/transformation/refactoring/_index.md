@@ -3,6 +3,7 @@ title: Refactoring
 description: >-
     The only constant is change, and what worked yesterday may not work today. 
 weight: 11
+draft: true
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 

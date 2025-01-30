@@ -4,6 +4,7 @@ description: >-
     Testing ensures the delivered product meets all expectations and does not 
     contain any undesirable qualities.
 weight: 7
+draft: true
 ---
 {{< alert title="Note" color="success">}}This page is a collection of concepts and has not been formatted into a finished page.{{< /alert >}}
 

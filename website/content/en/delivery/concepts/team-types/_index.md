@@ -19,7 +19,6 @@ Some teams meet the classical development model. These “code and compile” te
 When people think of development teams, this type of team usually comes to mind. This is the type of team all the blog posts, podcasts, and videos cover. Unfortunately, all those good ideas don’t apply well to the other team types.
 
 
-
 ## Packaged Application Team
 
 There are teams that do not develop the artifacts deployed into execution environments but configure them to meet the needs of the stakeholders. This model involves development teams configuring deployed applications, not creating them. Organizations that purchase licenses to SaaS applications like SAP, Salesforce, ServiceNow, Jira, and others often need delivery teams to customize the deployments to meet the organization’s unique needs.

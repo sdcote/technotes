@@ -5,6 +5,7 @@ description: >-
     modern delivery and is standing in the way of realizing continuous delivery 
     of value to customers.
 weight: 1
+draft: true
 ---
 
 Vestige of Waterfall Methodologies

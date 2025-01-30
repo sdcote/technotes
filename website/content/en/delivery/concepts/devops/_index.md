@@ -3,6 +3,7 @@ title: DevOps
 description: >-
     DevOps and DevSecOps has been given may definitions, but it need not be confusing.
 weight: 100
+draft: true
 ---
 
 To parody quote William Goldman's Princess Bride:
