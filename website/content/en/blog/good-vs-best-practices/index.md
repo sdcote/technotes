@@ -1,15 +1,23 @@
 ---
+date: 2016-10-02
 title: Good vs Best Practices
-description: >-
+linkTitle: Best Practice Misconceptions
+description: >
   Many use "Best Practice" to describe the preferred way to do something, but most
   problem domains do not have best practices. There are "Good Practices" that should
   be used instead. But what is the difference between "Good" and "Best" practices?
-weight: 1
+author: Steve Cote ([@sdcote.com](https://bsky.app/profile/sdcote.com))
+resources:
+  - src: "**.{png,jpg}"
+    title: "Image #:counter"
+    params:
+      byline: "Steve Cote / CC-BY-CA"
 ---
-
-The term best practice is misused more often than not. It is a "hand-wavy" phrase that is meant to cover everything from documented practices to "trust me" I know what I'm talking about." Its misuse has led some to dismiss the term as so much double talk, and rightly so. Continue misusing a term long enough, and it will lose its meaning and value.
+The term best practice is misused more often than not. It is a "hand-wavy" phrase that is meant to cover everything from documented practices to "trust me, I know what I'm talking about." Its misuse has led some to dismiss the term as so much double talk, and rightly so. Continue misusing a term long enough, and it will lose its meaning and value.
 
 In the late 1990s, Dave Snowden, an IBM Fellow in knowledge management, created a knowledge model called Cynefin [[1](#1)]. It was initially developed to help organizations better understand and manage knowledge. Over time, it evolved into a broader decision-making and sense-making framework [[2](#2)] that helps leaders navigate complexity and uncertainty. This framework evolved over the years and became widely adopted in agile development, public policy, and crisis management fields.
+
+Cynefin clearly explains the difference between "Good" and "Best" practices. [tl;dr](#summary)
 
 ## Problem Domains
 A problem domain is a subject area or context in which a problem is identified, analyzed, and solved. This includes everything from "my coffee maker won't brew a cup of coffee" to landing humans on Mars. Are you trying to deliver quality software to your customers? Then, your problem domain is software delivery. Do you have too many defects in your code? Then, software quality is your problem domain. Delivering a new product or service to a market is also a problem domain.
@@ -85,7 +93,7 @@ A changing problem domain sometimes requires Novel/New practices to move it towa
 
 It should be noted that all domains can change. When you think you have a set of **Good Practices** for a **Complicated** domain, an external factor can send your problem domain into chaos. What used to be considered good practices in data processing no longer apply in today's technology environment. Virtual Machines used to be considered good practices, but with the wide acceptance of containerization, VMs are no longer considered a good practice.
 
-## Review
+## Summary  {#summary}
 Finding and applying the appropriate practice depends on the type of problem domain you are in.
 
 All problem domains start in a transitional state of "Confusion" (Apathy) – When it's unclear which domain applies, requiring further assessment to classify the situation correctly and progresses through at most four basic states:
@@ -111,7 +119,7 @@ All problem domains start in a transitional state of "Confusion" (Apathy) – Wh
   - **Best** Practices
   - Example: Following a standardized process, like assembling furniture with clear instructions.
 
-Complacency - No problem domain is static. Change is inevitable, and it can occur gradually or overnight. Management must continually assess their problem domain and apply the appropriate strategy to achieve desired outcomes.
+**Complacency** - No problem domain is static. Change is inevitable, and it can occur gradually or overnight. Management must continually assess their problem domain and apply the appropriate decision-making strategy to achieve desired outcomes.
 
 ## References
 <ol>
