@@ -24,3 +24,29 @@ After performing scores of delivery transformation projects and "green fielding"
 1. **Repeat** — Establish regular intervals to revisit each step of the transformation process to ensure delivery practices stay current with customer expectations and needs.
 
 While it would be easy to assume this is only for software, that would be a mistake. Any product delivered to the customer can follow these steps to improve value delivery. This process has worked for many teams providing data sets, machine learning models, analysis and visualization elements, data science, and other non-software products.
+
+## Approaches
+
+There are several approaches to delivery transformation. For Greenfield teams, there is little to change. Teams can begin adopting good delivery practices as they evolve. It is mainly a matter of understanding modern delivery practinces and embracing those that best fit the team's delivery model.
+
+However, change is more complicated for established teams. Existing commitments must be honored, and maintaining team output is a priority. The challenge is how to improve delivery without adversely affecting team commitments.
+
+### Managment Driven
+
+When management encourages teams to improve their delivery practices, it is typically due to undesirable characteristics. For many, this is infrequent releases or unacceptably long intervals between strategically essential releases. Another common issue management has with many of its delivery teams is the number of defects, which indicates poor quality practices, technical debt, or both.
+
+The first step in management-driven delivery transformation is establishing one to three delivery goals common to all delivery teams. The goals are SMART in that they are specific, measurable, attainable, relevant, and time-related. Samples of SMART management goals for delivery teams are as follows:
+
+- Reduce defect-to-feature ratios 
+- Improve Value Delivery Rate
+- Reduce Cycle Time
+- Improve Deployment Frequency
+- Improve Average Features Per Release
+- Reduce Mean Time to Recovery
+- Reduce Failed Deployment Percentage - reduce the number of failed release deployments in a timeframe.
+- Increase Regression Test Suite Scenarios - Encourage delivery teams to increase the number of use case scenarios automated in their automated regression test suite.
+- Increate Percentage of Automated tests
+
+### Team Driven
+
+Teams recognize problems with their delivery processes when they find it difficult to consistently deliver requested features on time without added stress.

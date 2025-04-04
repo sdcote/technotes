@@ -6,8 +6,8 @@ description: >
   This is a trick from the old days (the 1980s) of programming in COBOL and RPG. 
   In those days, we had to set up working storage and were basically limited to 
   fixed storage sizes in bytes. Overflow and truncation were always a concern but 
-  sometimes it could be used to our advantage. This is a trick to convert MDY to 
-  YMD and back again.
+  sometimes it could be used to our advantage. This is a trick to convert MMDDYY to 
+  YYMMDD and back again.
 author: Steve Cote ([@sdcote.com](https://bsky.app/profile/sdcote.com))
 resources:
   - src: "**.{png,jpg}"
@@ -15,19 +15,19 @@ resources:
     params:
       byline: "Steve Cote / CC-BY-CA"
 ---
-It used to be a common practice to define dates in a `C6.0` field. That is a character field with six places and no decimal places. An integer in this field was either a YMD or a MDY value. This allowed us to represent dates with just 6 octets (bytes) of data in our records. If we stored them in binary it was only 3 bytes of data.
+It used to be common practice to define dates in a C6.0 field, a character field with six places and no decimal places. An integer in this field was either a YYMMDD or an MMDDYY value. This allowed us to represent dates with just 6 octets (bytes) of data in our records. If we stored them in binary, it was only 3 bytes of data.
 
-You have to remember that back then we had very little memory available for our programs. A 4-digit year was a luxury. This was a big reason for the [Y2K scare](https://en.wikipedia.org/wiki/Year_2000_problem). Every byte counted. In fact, we would measure things in nibbles (4-bit bytes). A single byte would hold 8 flags. Our tapes held about 45MB of data and represented an entire table of data. Some tape drives could hold 180MB of data and a whole table had to fit on it, but those drives and tapes were expensive and not widely available. We often could not load an entire table into primary storage, but I digress.
+You have to remember that back then, we had very little memory available for our programs. A 4-digit year was a luxury. This was a big reason for the [Y2K scare](https://en.wikipedia.org/wiki/Year_2000_problem). Every byte counted. In fact, we would measure things in nibbles (4-bit bytes). A single byte would hold eight flags. Our tapes held about 45MB of data and represented an entire data table. Some tape drives could hold 180MB of data, and a whole table had to fit on it, but those drives and tapes were expensive and not widely available. We often could not load an entire table into primary storage, but I digress.
 
 ## Convert MMDDYY to YYMMDD
-To convert an integer which represented Month Day Year into Year Month Day format all you had to do was a simple multiplication. Just multiply the integer by 10000.01 and take the last 6 digits and you have the same date but the year moved to the beginning.
+To convert an integer representing Month-Day-Year into Year-Month-Day format, all you had to do was a simple multiplication. Just multiply the integer by 10000.01 and take the last six digits, and you have the same date, but the year moved to the beginning.
 
 MMDDYY * 10000.01 = YYMMDD
 
 121618 * 10000.01 = 1216181216.18
 
 ## Convert YYMMDD to MMDDYY
-To convert back from Year Month Day to Month Day Year just multiply your value by 100.0001 and take the last 6 digits
+To convert back from Year-Month-Day to Month-Day-Year just multiply your value by 100.0001 and take the last six digits:
 
 YYMMDD * 100.0001 = MMDDYY
 
