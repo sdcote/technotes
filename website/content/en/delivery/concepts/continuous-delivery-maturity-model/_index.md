@@ -4,7 +4,7 @@ description: >-
     There are scores of practices that enable continuous delivery of value to 
     customers. The maturity of a team can be assessed by how many of them have 
     been adopted.
-weight: 1
+weight: 2
 ---
 
 Years of coaching teams have revealed a set of good practices for delivery teams. These practices have proven to improve quality and reduce time to market.

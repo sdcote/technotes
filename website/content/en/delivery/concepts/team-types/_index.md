@@ -5,7 +5,7 @@ description: >-
     well for one type of team may not work well for others. Therefore, 
     it is essential to understand the different models of value
     delivery.
-weight: 1
+weight: 3
 ---
 
 One of the most common mistakes seen in delivery teams today is trying to use delivery practices for software development on a team that does not (only) deliver software. As development teams take on different responsibilities, the traditional Scrum, Kanban, Extreme Programming (XP), Lean, and other software development methodologies fail to manage other types of work and value delivery.
