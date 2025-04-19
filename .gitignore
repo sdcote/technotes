@@ -2,3 +2,4 @@
 *.zip
 website/public/
 website/resources/_gen/
+.idea/
